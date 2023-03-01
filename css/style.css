@@ -109,3 +109,17 @@ ul li a {
     background-color:#f5f5f5 ;
 
   }
+
+  /*Varad*/
+  .carousel-indicators {
+    position: relative !important;
+}
+.bgContainer{
+    background-color: #F7F7FB;
+}
+.grayWord{
+    color:darkgray;
+}
+.redWord{
+    color:#A21C28;
+}
