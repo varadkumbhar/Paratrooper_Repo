@@ -109,3 +109,47 @@ ul li a {
     background-color:#f5f5f5 ;
 
   }
+
+
+  /*Domain section  css */
+ 
+.domain{
+  text-align: center;
+  background-color: #f6f3f3;
+  padding-bottom: 0px;
+  margin-top: 79px;
+
+}
+.domain .d-inline{
+color: #c0c0c0;
+}
+.domain .light-text{
+color: #A21C28;
+}
+/* .domain .d-Eline{
+color: #A21C28;
+} */
+#demo{
+background-color: #f7f7fb;
+}
+#subdomain{
+  text-decoration: solid;
+  padding-top: 3px;
+}
+.card-title{
+  text-align: left;
+}
+.card{
+  margin-left: 20px;
+}
+.card-title{
+  margin-left: 30px;
+  padding-top: 10px;
+}
+.imgdiv{
+  margin: 0px 30px 0px 20px;
+}
+#client{
+  text-align: center;
+  margin-left: 35%;
+}
