@@ -153,17 +153,3 @@ background-color: #f7f7fb;
   text-align: center;
   margin-left: 35%;
 }
-
-/*Our Client Says*/
-.carousel-indicators {
-  position: relative !important;
-}
-.bgContainer{
-  background-color: #F7F7FB;
-}
-.grayWord{
-  color:darkgray;
-}
-.redWord{
-  color:#A21C28;
-}
